@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlaaMh10
-- 👀 I’m interested in 
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning js
 
 
